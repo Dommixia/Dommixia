@@ -26,6 +26,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [HDI & Happiness Index ML](https://github.com/Dommixia/Machine-Learning-Models-For-HDI-and-Happiness-Index) | Predicts Human Development & Happiness Index using ensemble ML | Python, scikit-learn |
 | [World Power Index ML](https://github.com/Dommixia/World-Power-Index-Machine-Learning-model) | Predicts global power rankings across 2021–2024 using stacking ensemble | Python, LightGBM |
 | [Hand Gesture Neural Network](https://github.com/Dommixia/Hand-prediction-using-neural-networks) | Real-time hand gesture recognition using CNN + OpenCV | PyTorch, OpenCV |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)|
 
 ## Currently learning
 - ⚛️ Qiskit (IBM Quantum)
