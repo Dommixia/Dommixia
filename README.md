@@ -27,6 +27,8 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [World Power Index ML](https://github.com/Dommixia/World-Power-Index-Machine-Learning-model) | Predicts global power rankings across 2021–2024 using stacking ensemble | Python, LightGBM |
 | [Hand Gesture Neural Network](https://github.com/Dommixia/Hand-prediction-using-neural-networks) | Real-time hand gesture recognition using CNN + OpenCV | PyTorch, OpenCV |
 | [Points SMP Plugin](https://github.com/Dommixia/Points-SMP-Plugin) | Minecraft server plugin with points system, leaderboard, admin commands and custom weapons | Java |
+| [Discord Bot](https://github.com/Dommixia/Discord-Bot) | A discord Bot with custom commands and fun interactions for my private server | Python |
+
 
 ## Currently learning
 - ⚛️ Qiskit (IBM Quantum)
