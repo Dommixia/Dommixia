@@ -1,4 +1,4 @@
-# Hi, I'm Dommixia 👋
+# Hi, I'm Aarav Kashyap 👋
 
 I'm a student based in India with a deep interest in **Machine Learning**, **Quantum Computing**, and the intersection of both. I'm currently in Class 10 and already building real ML projects — working towards a future in quantum ML research.
 
