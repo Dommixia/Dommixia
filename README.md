@@ -1,6 +1,6 @@
 # Hi, I'm Aarav Kashyap 👋
 
-I'm a student based in India with a deep interest in **Machine Learning**, **Quantum Computing**, and the intersection of both. I'm currently in Class 10 and already building real ML projects — working towards a future in quantum ML research.
+I'm a student based in India with a deep interest in **Machine Learning**, **Quantum Computing**, and the intersection of both. I'm currently in Class 10 and  working towards a future in quantum ML research.
 
 ## What I'm working on
 - 🤖 Building ML models on real-world socio-economic datasets
