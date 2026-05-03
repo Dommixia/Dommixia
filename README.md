@@ -5,13 +5,12 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 ## What I'm working on
 - 🤖 Building ML models on real-world socio-economic datasets
 - ⚛️ Learning Quantum Computing (Qiskit, linear algebra, quantum gates)
-- 📐 Currently studying: Linear Algebra (the math behind both ML and quantum computing)
 
 ## What I'm interested in
 - Quantum Machine Learning (QML)
 - Predictive modelling with real-world data
 - Neural networks and computer vision
-- Eventually: MS/PhD in Quantum Computing abroad
+- Eventually: MS/PhD in Quantum Computing
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,6 +32,3 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 - ⚛️ Qiskit (IBM Quantum)
 - 📐 Linear algebra (eigenvalues, tensor products — the language of qubits)
 - 🔬 Quantum gates and quantum circuits
-
----
-*"The best time to start was yesterday. The second best time is now."*
