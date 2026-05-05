@@ -29,7 +29,19 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [Points SMP Plugin](https://github.com/Dommixia/Points-SMP-Plugin) | Minecraft server plugin with points system, leaderboard, admin commands and custom weapons | Java |
 | [Discord Bot](https://github.com/Dommixia/Discord-Bot) | A discord Bot with custom commands and fun interactions for my private server | Python |
 
+## Certificates & Achievements
+| Achievement | Issued by | Verify |
+|---|---|---|
+| 🏆 Top 5 of 100 Teams – SOIL Geo-Diversity Hackathon | SOIL Institute of Management | 2025–26 |
+| 🤖 AI Literacy | IBM SkillsBuild | [🔗 View Badge](https://www.credly.com/badges/26f9e911-2298-4a0b-a04a-a2b3a650c29c/public_url) |
+| 🇩🇪 German Language – A1 | Goethe Institut | [year] |
 
+## Languages
+- 🇮🇳 English — Fluent
+- 🇮🇳 Kannada — Native
+- 🇩🇪 German — A1 (certified, Goethe Institut)
+- 🕉️ Sanskrit — Elementary
+- 
 ## Currently learning
 - ⚛️ Qiskit (IBM Quantum)
 - 📐 Linear algebra (eigenvalues, tensor products — the language of qubits)
