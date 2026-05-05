@@ -10,7 +10,6 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 - Quantum Machine Learning (QML)
 - Predictive modelling with real-world data
 - Neural networks and computer vision
-- Eventually: MS/PhD in Quantum Computing
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
