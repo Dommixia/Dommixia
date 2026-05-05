@@ -38,7 +38,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | 🤖 AI Literacy | IBM SkillsBuild | [🔗 View Badge](https://www.credly.com/badges/26f9e911-2298-4a0b-a04a-a2b3a650c29c/public_url) |
 | 🇩🇪 German Language – A1 | Goethe Institut | [2025] |
 
-### 📜 Courses & Credentials
+## 📜 Courses & Credentials
 | Course | Issued by | Year |
 |---|---|---|
 | 🤖 AI Literacy | IBM SkillsBuild | 2024 |
