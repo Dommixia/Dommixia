@@ -32,7 +32,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
 |---|---|---|
-| 🏆 Top 5 of 100 Teams – SOIL Geo-Diversity Hackathon | SOIL Institute of Management | 2025–26 |
+| 🏆 Top 5 of 200 Teams – SOIL Geo-Diversity Hackathon | SOIL Institute of Management | 2025–26 |
 | 🥇 1st Position – Digital Nagrik Cybersecurity Quiz | DPS Bangalore South, CS Department | 2025 |
 | 🖥️ Cyber Quest – Tech Sprint 2025 Inter-school Tech Fest | DPS Bangalore South | 2025 |
 | 🤖 AI Literacy | IBM SkillsBuild | [🔗 View Badge](https://www.credly.com/badges/26f9e911-2298-4a0b-a04a-a2b3a650c29c/public_url) |
