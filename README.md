@@ -52,7 +52,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 - 🇮🇳 Kannada — Native
 - 🇩🇪 German — A1 (certified, Goethe Institut)
 - 🕉️ Sanskrit — Elementary
-- 
+  
 ## Currently learning
 - ⚛️ Qiskit (IBM Quantum)
 - 📐 Linear algebra (eigenvalues, tensor products — the language of qubits)
