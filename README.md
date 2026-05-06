@@ -28,6 +28,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [Hand Gesture Neural Network](https://github.com/Dommixia/Hand-prediction-using-neural-networks) | Real-time hand gesture recognition using CNN + OpenCV | PyTorch, OpenCV |
 | [Points SMP Plugin](https://github.com/Dommixia/Points-SMP-Plugin) | Minecraft server plugin with points system, leaderboard, admin commands and custom weapons | Java |
 | [Discord Bot](https://github.com/Dommixia/Discord-Bot) | A discord Bot with custom commands and fun interactions for my private server | Python |
+| [Quantum Random Number Generator](https://github.com/Dommixia/Quantum-random-number-generator) | A quantum computing simulation to demonstrate how true randomness is generated | Python |
 
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
