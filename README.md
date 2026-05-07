@@ -29,6 +29,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [Points SMP Plugin](https://github.com/Dommixia/Points-SMP-Plugin) | Minecraft server plugin with points system, leaderboard, admin commands and custom weapons | Java |
 | [Discord Bot](https://github.com/Dommixia/Discord-Bot) | A discord Bot with custom commands and fun interactions for my private server | Python |
 | [Quantum Random Number Generator](https://github.com/Dommixia/Quantum-random-number-generator) | A quantum computing simulation to demonstrate how true randomness is generated | Python |
+|[Bloch Sphere Visulaizer]() | Qubit representation after applying Quantum GATES | Python, Qiskit |
 
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
