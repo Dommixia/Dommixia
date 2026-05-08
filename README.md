@@ -29,8 +29,8 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [Points SMP Plugin](https://github.com/Dommixia/Points-SMP-Plugin) | Minecraft server plugin with points system, leaderboard, admin commands and custom weapons | Java |
 | [Discord Bot](https://github.com/Dommixia/Discord-Bot) | A discord Bot with custom commands and fun interactions for my private server | Python |
 | [Quantum Random Number Generator](https://github.com/Dommixia/Quantum-random-number-generator) | A quantum computing simulation to demonstrate how true randomness is generated | Python |
-|[Bloch Sphere Visulaizer]() | Qubit representation after applying Quantum GATES | Python, Qiskit |
-
+|[Bloch Sphere Visulaizer](https://github.com/Dommixia/Bloch-Sphere-Visualizer-for-qubits) | Qubit representation after applying Quantum GATES | Python, Qiskit |
+|[Quantum Coin Flip](https://github.com/Dommixia/Simulating-A-coin-flip-using-Qiskit)| Using quantum circuits to simulate a coin flip 1000 times and comparing it with pythons 'Random' module| Python |
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
 |---|---|---|
