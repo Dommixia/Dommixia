@@ -2,10 +2,6 @@
 
 I'm a student based in India with a deep interest in **Machine Learning**, **Quantum Computing**, and the intersection of both. I'm currently in Class 10 and  working towards a future in quantum ML research.
 
-## What I'm working on
-- 🤖 Building ML models on real-world socio-economic datasets
-- ⚛️ Learning Quantum Computing (Qiskit, linear algebra, quantum gates)
-
 ## What I'm interested in
 - Quantum Machine Learning (QML)
 - Predictive modelling with real-world data
@@ -54,3 +50,6 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 - 🇮🇳 Kannada — Native
 - 🇩🇪 German — A1 (certified, Goethe Institut)
 - 🕉️ Sanskrit — Elementary
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dommixia&show_icons=true&theme=dark)
