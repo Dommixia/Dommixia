@@ -28,6 +28,8 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 | [Quantum Random Number Generator](https://github.com/Dommixia/Quantum-random-number-generator) | A quantum computing simulation to demonstrate how true randomness is generated | Python |
 |[Bloch Sphere Visulaizer](https://github.com/Dommixia/Bloch-Sphere-Visualizer-for-qubits) | Qubit representation after applying Quantum GATES | Python, Qiskit |
 |[Quantum Coin Flip](https://github.com/Dommixia/Simulating-A-coin-flip-using-Qiskit)| Using quantum circuits to simulate a coin flip 1000 times and comparing it with pythons 'Random' module| Python |
+|[Quantum State Visulizer](https://github.com/Dommixia/Quantum-State-Visualizer)| An interactive desktop application built with Python and Tkinter that lets you build quantum circuits by applying gates one at a time and instantly visualizes the qubit state on a Bloch sphere. | Python, Tkinter, qiskit |
+
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
 |---|---|---|
