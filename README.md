@@ -29,6 +29,7 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 |[Bloch Sphere Visulaizer](https://github.com/Dommixia/Bloch-Sphere-Visualizer-for-qubits) | Qubit representation after applying Quantum GATES | Python, Qiskit |
 |[Quantum Coin Flip](https://github.com/Dommixia/Simulating-A-coin-flip-using-Qiskit)| Using quantum circuits to simulate a coin flip 1000 times and comparing it with pythons 'Random' module| Python |
 |[Quantum State Visulizer](https://github.com/Dommixia/Quantum-State-Visualizer)| An interactive desktop application built with Python and Tkinter that lets you build quantum circuits by applying gates one at a time and instantly visualizes the qubit state on a Bloch sphere. | Python, Tkinter, qiskit |
+|[Quantum SImulation Using Only Math](https://github.com/Dommixia/Quantum-Sim-from-Scratch)| A quantum circuit simulator built entirely from NumPy and linear algebra — no Qiskit, no abstractions. Implements single and multi-qubit gates, tensor products, entanglement, and measurement.| Python , Numpy |
 
 ## Certificates & Achievements
 | Achievement | Issued by | Verify |
