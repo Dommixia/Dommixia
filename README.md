@@ -59,6 +59,6 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 ## GitHub Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Dommixia&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Dommixia&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
