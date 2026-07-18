@@ -57,4 +57,4 @@ I'm a student based in India with a deep interest in **Machine Learning**, **Qua
 - 🕉️ Sanskrit — Elementary
 
 ## GitHub Stats
-<div align='center'> ![GitHub Streak](https://streak-stats.demolab.com?user=Dommixia&theme=dark) (https://git.io/streak-stats)</div>
+<div align='center'> [![GitHub Streak](https://streak-stats.demolab.com?user=Dommixia&theme=dark)] (https://git.io/streak-stats)</div>
